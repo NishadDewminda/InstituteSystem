@@ -1,0 +1,5 @@
+
+admin,admin,Admin
+hr,hr,HR Manager
+assis,assis,HR Assistant
+Jalitha,abcd,HR Manager
